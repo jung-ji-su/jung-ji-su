@@ -27,7 +27,3 @@
   <a href="jjsu95@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
-
-이게지금 내 github 메인화면에 나오는 소스인데
-
-좀더 깔끔하고 재밌게 바꾸고 싶어 ㅋㅋ
