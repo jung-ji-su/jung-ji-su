@@ -1,1 +1,33 @@
-<div align="center"> ![header](https://capsule-render.vercel.app/api?type=waving &color=0:0d1117,100:1E3A5F&height=200§ion=header &text=Jung%20Ji%20Su&fontSize=52&fontColor=ffffff &animation=fadeIn&fontAlignY=38 &desc=Java%20%7C%20React%20%7C%20Oracle&descAlignY=58&descSize=18) ### 👋 안녕하세요! ``` $ whoami Java 백엔드 개발자인데 어쩌다 보니 React도 합니다 ㅋㅋ 금융 시스템 유지보수하다가 C 기반 레거시를 React로 갈아엎은 사람 Oracle 쿼리 짤 때 제일 신남 — 사실인지는 모르겠음 $ echo $STATUS 현재 재직중 · 사이드 프로젝트 준비중 · 커피 항시 보충중 ☕ ``` ### 🛠 Tech Stack **Backend** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white) **Frontend** *(사실 이쪽도 꽤 함)* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) **Database** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ### 🤙 TMI - 🏦 금융 IT 3년 — 은행 시스템 만지다 보니 계좌 이체가 무서워졌음 - 🦕 C 기반 레거시를 React로 갈아엎은 경험 보유. 당시 나도 React 처음이었음 ㅋㅋ - 🗃 Oracle SQL 짜는 게 취미 수준. 쿼리 최적화에서 쾌감 느끼는 사람 - 📐 UI/UX도 공부 중 — Figma 배우면서 내 감각이 생각보다 괜찮다는 걸 깨닫는 중 ### 📬 연락처 [![Gmail](https://img.shields.io/badge/jjsu95@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white)](mailto:jjsu95@naver.com) ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:0d1117&height=120§ion=footer) </div>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JisuJung&fontSize=70&animation=twinkling)
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center"> Techs that I've used at least once </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+</p>
+<p align="center">
+  
+<h3 align="center">🛠 Plan to learn 🛠</h3>
+<p align="center"> skills to learn in the future </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+  
+<p align="center">
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://www.instagram.com/ji._.so00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="jjsu95@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p>
+<br>
+
+이게지금 내 github 메인화면에 나오는 소스인데
+
+좀더 깔끔하고 재밌게 바꾸고 싶어 ㅋㅋ
