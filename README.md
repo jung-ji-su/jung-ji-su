@@ -7,7 +7,7 @@
 
 <!-- 🌌 헤더 배너 (Capsule Render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Jisu&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer%20%7C%20Building%20with%20Java%20%26%20Spring&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Jisu&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18" />
 </p>
 
 <!-- ⌨️ 타이핑 애니메이션 -->
