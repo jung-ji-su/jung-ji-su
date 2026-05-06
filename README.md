@@ -128,15 +128,6 @@ const jisu = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/jung-ji-su/Team_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jung-ji-su&repo=Team_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/jung-ji-su/TIL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jung-ji-su&repo=TIL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>
-</p>
-
 ### 📈 Korean Stock AI &nbsp;<sub>(Live Demo)</sub>
 > Next.js + Firebase + OpenRouter AI 기반 한국 주식 분석 웹앱
 >
