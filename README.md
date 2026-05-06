@@ -124,11 +124,6 @@ const jisu = {
   <img src="https://raw.githubusercontent.com/jung-ji-su/jung-ji-su/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!--
-  💡 위 스네이크 동작시키려면:
-  .github/workflows/snake.yml 파일 추가 → Actions 한번 실행
--->
-
 ---
 
 ## 🚀 Featured Projects
