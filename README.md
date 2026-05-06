@@ -40,7 +40,7 @@ const jisu = {
   },
   workingOn: ["Vue → React Migration", "PMS Modernization"],
   interests: ["📊 Quant Analysis", "🤖 AI Integration", "🎨 Clean UI"],
-  funFact: "주식 차트 보면서 코딩하는 게 취미 ㅋㅋ"
+  funFact: "주식 차트 보면서 코딩하는 게 취미ㅎㅎ"
 };
 ```
 
