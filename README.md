@@ -134,13 +134,6 @@ const jisu = {
 > 🔗 **[stock-analyzer-opal-seven.vercel.app](https://stock-analyzer-opal-seven.vercel.app)**
 >
 > `Quant Scoring` · `Volume Profile` · `AI Predictions` · `Mobile-First UI`
-
-### 🛒 Team Project
-> 팀 프로젝트로 진행한 쇼핑몰 웹사이트 — JavaScript 기반
-
-### 📚 TIL (Today I Learned)
-> 매일 학습한 내용 정리 — Java / Spring 위주
-
 ---
 
 ## 📫 Connect with Me
