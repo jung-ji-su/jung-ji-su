@@ -160,5 +160,5 @@ const jisu = {
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/jung-ji-su">jung-ji-su</a> with ❤️</i>
+  <i>👉👉 From <a href="https://github.com/jung-ji-su">jung-ji-su</a> with</i>
 </p>
