@@ -31,16 +31,16 @@
 ```typescript
 const jisu = {
   name: "Jung Ji Su",
-  role: "Backend Developer (Full-Stack capable)",
+  role: "Backend Developer",
   location: "Seoul, South Korea 🇰🇷",
   currently: {
     building: "Korean Stock AI Web App 📈",
     stack: ["Next.js", "Firebase", "OpenRouter AI"],
     deployed: "stock-analyzer-opal-seven.vercel.app"
   },
-  workingOn: ["Vue → React Migration", "PMS Modernization"],
+  workingOn: ["다이어리 웹 , AI 주식투자웹"],
   interests: ["📊 Quant Analysis", "🤖 AI Integration", "🎨 Clean UI"],
-  funFact: "주식 차트 보면서 코딩하는 게 취미ㅎㅎ"
+  funFact: "AI로 주식투자해서 100억부자되기"
 };
 ```
 
